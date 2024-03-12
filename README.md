@@ -1,4 +1,4 @@
-# daily_quotes_app
+# Adduce App
 
 A new Flutter project.
 
